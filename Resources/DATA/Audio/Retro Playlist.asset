@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4296933d9a3e1b4b83e0aa315b461dc, type: 3}
+  m_Name: Retro Playlist
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: aa1b1bb2409cdfb4681a9b5f8b5e36a1, type: 3}
+  - {fileID: 8300000, guid: cc7da3d34e46e1e40901f44fd8112ff1, type: 3}
+  - {fileID: 8300000, guid: 7c9061a758affd04b8700a9241eabb55, type: 3}
+  - {fileID: 8300000, guid: 86b2d937de49e24409909a93fdb327b2, type: 3}
+  - {fileID: 8300000, guid: 7c0a6d019b81797429ddefe3e953e3cd, type: 3}
+  - {fileID: 8300000, guid: 0fb0ba42008245c47b8584c19adb0221, type: 3}
+  - {fileID: 8300000, guid: e348e3b5306bd984d8795dddfc23e5f9, type: 3}
+  - {fileID: 8300000, guid: 6c4f2554e0f5fd54da893020eefc8e7b, type: 3}
+  loop: 0
+  playNext: 1
+  volume: {x: 0.43222144, y: 0.43222144}
+  useSemitones: 0
+  semitones: {x: 0, y: 0}
+  pitch: {x: 1, y: 1}
+  playOrder: 0
+  playIndex: 5

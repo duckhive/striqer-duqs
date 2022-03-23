@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4296933d9a3e1b4b83e0aa315b461dc, type: 3}
+  m_Name: CanonSfx
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: e332963f8946e254692f12361a5ce060, type: 3}
+  - {fileID: 8300000, guid: 664298cd44f6c5f45b461feec20de8eb, type: 3}
+  - {fileID: 8300000, guid: 727ffb309b362224f8f55490dfc6c94f, type: 3}
+  - {fileID: 8300000, guid: ae010c07040365549859ba2672484952, type: 3}
+  loop: 0
+  playNext: 0
+  volume: {x: 0.15451895, y: 0.23420797}
+  useSemitones: 1
+  semitones: {x: -1, y: 0}
+  pitch: {x: 0.94387704, y: 1}
+  playOrder: 0
+  playIndex: 1

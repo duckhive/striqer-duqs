@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b914c0950ae9ea44cbd30316259a0a02, type: 3}
+  m_Name: Raptor
+  m_EditorClassIdentifier: 
+  character: 10
+  agentName: Raptor
+  description: This is a raptor.
+  prefab: {fileID: 2874051029315151100, guid: f950e732b3448114b9c018cc38981705, type: 3}
+  defaultMat: {fileID: 2100000, guid: 8db0b6e08a2e40246808a73a400491e6, type: 2}
+  userMat: {fileID: 2100000, guid: a58e0e6c5f522cb46b238ca6c2ddedf1, type: 2}
+  maxSpeed: 30
+  accel: 60
+  turboSpeed: 45
+  turnSpeed: 0.2
+  attackSpeed: 15
+  maxPassForce: 100
+  maxShotForce: 200
+  maxShotSpin: 500
+  footstepSfx: {fileID: 11400000, guid: 030094ec973a77e4988f9ad831bce01d, type: 2}
+  aiData: {fileID: 11400000, guid: 17da7e9a7f699ab4cac9cc3a6219dee2, type: 2}

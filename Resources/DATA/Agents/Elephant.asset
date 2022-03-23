@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b914c0950ae9ea44cbd30316259a0a02, type: 3}
+  m_Name: Elephant
+  m_EditorClassIdentifier: 
+  character: 0
+  agentName: Elephant
+  description: Elephant glad I didn't say pineapple.
+  prefab: {fileID: 300571138790346312, guid: 9b75dc8e8ffc8e342b7a894f125299aa, type: 3}
+  defaultMat: {fileID: 2100000, guid: 606087950aab5004cad9796c460cfb53, type: 2}
+  userMat: {fileID: 2100000, guid: 66c82a7cc82852440857dbbb10786aed, type: 2}
+  maxSpeed: 25
+  accel: 50
+  turboSpeed: 37.5
+  turnSpeed: 0.2
+  attackSpeed: 15
+  maxPassForce: 100
+  maxShotForce: 200
+  maxShotSpin: 500
+  footstepSfx: {fileID: 11400000, guid: 030094ec973a77e4988f9ad831bce01d, type: 2}
+  aiData: {fileID: 11400000, guid: 17da7e9a7f699ab4cac9cc3a6219dee2, type: 2}

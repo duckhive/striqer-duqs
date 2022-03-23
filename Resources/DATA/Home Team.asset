@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7216a89a9d1852743be2be8a9513d518, type: 3}
+  m_Name: Home Team
+  m_EditorClassIdentifier: 
+  teamAgentsData:
+  - {fileID: 11400000, guid: f7a925c25a8698d40ab75e81572f8d56, type: 2}
+  - {fileID: 11400000, guid: 590724d3e59d26d47aa9d758462ed71a, type: 2}
+  - {fileID: 11400000, guid: 47f329d041aa62f48a5278a3b23f3f90, type: 2}
+  - {fileID: 11400000, guid: 1b11471a6158f034bb01e5a862db8284, type: 2}
+  - {fileID: 11400000, guid: 733ed010b0cf17e4bb08c197728816d6, type: 2}
+  teamAgents:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  score: 0
+  agent1StartPos: {x: 25, y: 0, z: 25}
+  agent2StartPos: {x: 25, y: 0, z: -25}
+  agent3StartPos: {x: 75, y: 0, z: 25}
+  agent4StartPos: {x: 75, y: 0, z: -25}

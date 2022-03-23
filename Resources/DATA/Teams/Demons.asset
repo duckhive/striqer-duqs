@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 902012cb8bae45246b4fe4f43c4ae58e, type: 3}
+  m_Name: Demons
+  m_EditorClassIdentifier: 
+  teamEnum: 0
+  controlEnum: 0
+  agent1: {fileID: 11400000, guid: dda2bd8849105604a9e2a8196a3eefeb, type: 2}
+  agent2: {fileID: 11400000, guid: dda2bd8849105604a9e2a8196a3eefeb, type: 2}
+  agent3: {fileID: 11400000, guid: dda2bd8849105604a9e2a8196a3eefeb, type: 2}
+  agent4: {fileID: 11400000, guid: dda2bd8849105604a9e2a8196a3eefeb, type: 2}

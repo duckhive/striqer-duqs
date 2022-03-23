@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4296933d9a3e1b4b83e0aa315b461dc, type: 3}
+  m_Name: BallKickedSfx
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 1777ae6a76baf3147a590f5d81e441ae, type: 3}
+  - {fileID: 8300000, guid: 530595ff3e778c241ad6d1fc53552040, type: 3}
+  - {fileID: 8300000, guid: 73ded802ad98d474abeff1c32bf79337, type: 3}
+  - {fileID: 8300000, guid: 88582f24ad0f5db448f118861647e8f7, type: 3}
+  - {fileID: 8300000, guid: b2a7808799e4a964297202645d059122, type: 3}
+  - {fileID: 8300000, guid: 4fb8418454e576647ab41474595028b7, type: 3}
+  - {fileID: 8300000, guid: 790ee504f132eab4cb08473632f0793d, type: 3}
+  - {fileID: 8300000, guid: 3d27f521f73990240b35c2066dc84806, type: 3}
+  loop: 0
+  playNext: 0
+  volume: {x: 0.5, y: 0.5}
+  useSemitones: 0
+  semitones: {x: -3, y: 0}
+  pitch: {x: 0.86106867, y: 1}
+  playOrder: 0
+  playIndex: 2

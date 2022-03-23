@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4296933d9a3e1b4b83e0aa315b461dc, type: 3}
+  m_Name: Hit
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: e47cf037bc2ffb64c8c1340fe1285935, type: 3}
+  - {fileID: 8300000, guid: f066afd1c939821448143069f5db5486, type: 3}
+  - {fileID: 8300000, guid: 3b3e1321bacc0654eb326b6874211ccb, type: 3}
+  - {fileID: 8300000, guid: fbc8991cda0135d46b3decb8d90e0dc1, type: 3}
+  - {fileID: 8300000, guid: 63f903e66e58a2f41a950c75d37df4e5, type: 3}
+  - {fileID: 8300000, guid: 99841da661cb637498cbf944edfeabce, type: 3}
+  - {fileID: 8300000, guid: bb49a2ed48c45954087c10d2f2d736b6, type: 3}
+  - {fileID: 8300000, guid: b6660e12602e7094fb3496dc43da1d28, type: 3}
+  - {fileID: 8300000, guid: 9801161a4d5af054593df5cb3ec4229d, type: 3}
+  - {fileID: 8300000, guid: ee4de7bc7d643c845a898109aaea3987, type: 3}
+  - {fileID: 8300000, guid: 425434143727cac40b7e778ad0e35326, type: 3}
+  - {fileID: 8300000, guid: d116ba37515ba60479d9199b2b845db6, type: 3}
+  - {fileID: 8300000, guid: 7b191df41e31dcd489ced510cc09cf02, type: 3}
+  - {fileID: 8300000, guid: 6d7fe70f879cea14aa13977a482a35a7, type: 3}
+  - {fileID: 8300000, guid: 17747b4578175c6499da82f658d62bf1, type: 3}
+  - {fileID: 8300000, guid: 7d4f118060cd8a74e9a402ed02ca1c50, type: 3}
+  - {fileID: 8300000, guid: 8c1a34271b58ccf49a80746bb190af5c, type: 3}
+  - {fileID: 8300000, guid: f540ed4a1737cd840aa1d1cfacd416be, type: 3}
+  - {fileID: 8300000, guid: e5cab1bdb0312e9488802ad866376073, type: 3}
+  - {fileID: 8300000, guid: a8f01f681aaf4e144b3120cf024964b5, type: 3}
+  - {fileID: 8300000, guid: 2146a84e8f5eadf4bbdfd0f0e98f8b1c, type: 3}
+  - {fileID: 8300000, guid: 7b7c06b6d3be3ab49b7e058c866ed6fe, type: 3}
+  - {fileID: 8300000, guid: 2d89aee86b7f3b14599ac0ae972dd96e, type: 3}
+  - {fileID: 8300000, guid: 9c86c2419f2b24644897d22f08231a83, type: 3}
+  - {fileID: 8300000, guid: b50197516085e4b4c8def6772e4fe20d, type: 3}
+  - {fileID: 8300000, guid: a928a294a09b9754db1ea502b8f68cc3, type: 3}
+  volume: {x: 0.5, y: 0.63094395}
+  useSemitones: 1
+  semitones: {x: 0, y: 1}
+  pitch: {x: 1, y: 1.05946}
+  playOrder: 0
+  playIndex: 22

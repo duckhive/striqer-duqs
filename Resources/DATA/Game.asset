@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96bb92b8fec9824478a2b3a0fa9c604a, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  matchLength: 300
+  globalAgents:
+  - {fileID: 11400000, guid: 733ed010b0cf17e4bb08c197728816d6, type: 2}
+  - {fileID: 11400000, guid: 1c5791a5b882df7438f717c001c30dc3, type: 2}
+  - {fileID: 11400000, guid: dda2bd8849105604a9e2a8196a3eefeb, type: 2}
+  - {fileID: 11400000, guid: d2fc7138938c9c74cad7c73dbcc2b525, type: 2}
+  - {fileID: 11400000, guid: a133d854e5b39b840a722862d22dbe19, type: 2}
+  - {fileID: 11400000, guid: f7a925c25a8698d40ab75e81572f8d56, type: 2}
+  - {fileID: 11400000, guid: 590724d3e59d26d47aa9d758462ed71a, type: 2}
+  - {fileID: 11400000, guid: 47f329d041aa62f48a5278a3b23f3f90, type: 2}
+  - {fileID: 11400000, guid: 1b11471a6158f034bb01e5a862db8284, type: 2}
+  - {fileID: 11400000, guid: df237d389941c134e9ad1a9a3486b090, type: 2}
+  crowdCheerOnScoreSfx: {fileID: 11400000, guid: a6c530c1e8757034bb2dc8fe8b5824cf,
+    type: 2}
+  crowdIdleSfx: {fileID: 11400000, guid: f0e99de275c654e48be23bed1d2267ce, type: 2}
